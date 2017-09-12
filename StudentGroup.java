@@ -27,7 +27,7 @@ public class StudentGroup implements StudentArrayOperation {
 
 	@Override
 	public void setStudents(Student[] students) {
-                              student.setId(createid(ä",1));
+                              student.setId(createid("a",1));
                                student list.add(students);
 		// Add your implementation here
 	}
